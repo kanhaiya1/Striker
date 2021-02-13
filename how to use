@@ -1,0 +1,7 @@
+cd striker/
+
+ls
+
+./striker.py
+
+http://abc.com   \\ enter the website want to scan 
